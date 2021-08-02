@@ -1,4 +1,4 @@
-package com.BauDeDiversoes.Repositorio.copy;
+package com.BauDeDiversoes.Repositorio;
 
 import java.util.List;
 

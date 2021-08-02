@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.BauDeDiversoes.Model.Categoria;
-import com.BauDeDiversoes.Repositorio.copy.CategoriaRepositorio;
+import com.BauDeDiversoes.Repositorio.CategoriaRepositorio;
 
 @RestController
 @RequestMapping("/categoria")
